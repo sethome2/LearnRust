@@ -1,0 +1,1 @@
+C:\Users\sethome\Desktop\LearnRust\LearnRust\First_Step\First\ project\first_project\target\debug\first_project.exe: C:\Users\sethome\Desktop\LearnRust\LearnRust\First_Step\First\ project\first_project\src\main.rs
